@@ -49,6 +49,25 @@ body {
 
 /* CONTENT */
 
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+
+.jumbotron-heading{
+    font-weight: 200px;
+}
+
+.jumbotron .container{
+max-width: 40rem;
+}
+
+.margin{
+margin: 0px;
+}
+
 .top{
     background-color: rgb(189, 185, 185);
     display: flex;
