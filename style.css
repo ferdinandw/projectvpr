@@ -19,9 +19,9 @@ body {
     float: left;
     color: black;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 30px;
     border-radius: 1px;
 }
@@ -30,7 +30,7 @@ body {
 
 .header img {
     border-radius: 50%;
-    width: 70px;
+    width: 40px;
 }
 
 .header a:hover {
@@ -50,21 +50,30 @@ body {
 /* CONTENT */
 
 .jumbotron {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./bgc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding-top: 3rem;
     padding-bottom: 3rem;
     margin-bottom: 0;
-    background-color: #fff;
+
 }
 
 .jumbotron-heading {
-    font-weight: 200px;
+    color: white;
+    font-weight: 300px;
 }
 
 .jumbotron .container {
     max-width: 40rem;
 }
 
+.lead{
+    color: white;
+}
+
 .margin {
+    font-size: 20px;
     margin: 0px;
 }
 
@@ -77,7 +86,7 @@ body {
 .album {
     padding-top: 3rem;
     padding-bottom: 1rem;
-    background-color: rgb(182, 175, 175);
+    background-color: rgb(158, 155, 155);
 }
 
 .card {
