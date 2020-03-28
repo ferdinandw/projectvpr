@@ -156,9 +156,7 @@ form {
 
 .container-xl{
     background-color: gray;
-    margin-left: 0;
-    margin-right: 0;
-    padding: 0;
+    padding: 10px;
 }
 
 /* FOOTER */
