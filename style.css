@@ -125,7 +125,7 @@ body {
 
 .par{
     padding-top: 20px;
-    font-size: 40px;
+    font-size: 40px !important;
     align-content: center;
 }
 
