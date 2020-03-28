@@ -125,6 +125,10 @@ body {
     padding: 0;
 }
 
+.mappad{
+    padding-top: 5px;
+}
+
 .text {
     background-color: rgb(226, 178, 114);
 }
