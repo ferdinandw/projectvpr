@@ -123,22 +123,25 @@ body {
     padding: 20px;
 }
 
-.content{
-    display: flex;
-    justify-content: space-between;
+.par{
+    padding-top: 20px;
+    font-size: 40px;
+    align-content: center;
+}
+
+.row{
+    margin: 0;
+    padding: 0;
 }
 
 .text {
     background-color: rgb(226, 178, 114);
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    font-size: 18px;
 }
 
 .foto {
-    overflow: hidden;
-    width: 300px;
+    /* overflow: hidden; */
+    text-align: center;
+    width: 30%;
     /* height: 400px; */
     margin: 0;
 }
