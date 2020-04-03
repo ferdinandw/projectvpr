@@ -50,7 +50,7 @@ body {
 /* CONTENT */
 
 .bg1{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/asset/img/bgc.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./asset/img/bgc.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -133,7 +133,7 @@ body {
 }
 
 .bg2{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/asset/img/2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./asset/img/2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 3rem;
