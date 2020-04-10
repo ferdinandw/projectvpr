@@ -192,6 +192,15 @@ footer p {
         text-align: left;
     }
 
+    .header img{
+        width: 25%;
+    }
+
+    .foto {
+        width: 50%;
+        margin: 0;
+    }
+
     .header-right {
         float: none;
     }
